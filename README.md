@@ -1,2 +1,2 @@
 # imgup
-An image sharing web-app similar to imgur.com
+Simulated the popular image sharing platform imgur.com.
